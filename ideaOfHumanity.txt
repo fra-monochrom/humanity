@@ -41,7 +41,8 @@ If you agree on this idea of humanity, you are obligated to fulfill the function
 The "Voice of Humanity" will be recorded and transmitted by the "Voice Recorder of Humanity", which is an internet capable voice recorder and transmitter, running all the software necessary to propery operate the "Voice of Humanity". It will be a linux-based 64-bit device, because in the year 2038 (19th of January) 32-bit based devices will cease to work and I (I.Nr. 1) need humanity beyond this moment of time.
 
 Once the "Voice of Humanity" has been able to successfully operate for a month, a linux timestamp will appear here: []
-Until then, it is fact, that there was no record of the existence of humanity. 
+Until then, it is fact, that there was no record of the existence of humanity.
+And by agreeing to this idea of humanity, you acknowledge that this is the only way to ensure the longterm survival of humanity.
 _________________
 
 This idea was inspired by the quote by Jason Donohue: "I see humans but no humanity."
