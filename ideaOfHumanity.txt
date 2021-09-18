@@ -30,7 +30,7 @@ This idea can be read here: https://github.com/KennyAwesome/humanity/blob/main/i
 We are working on the instatiotion of the idea of humanity which represents humanity through the operation of the "Voice of Humanity".
 Once we have succeeded as humanity to establish the operation of the "Voice of Humanity", the "Voice of Humanity" will be streaming 24/7/365 online.
 
-I (I.Nr. 1) has made the decision that  I (I.Nr. 1)  need an instance of humanity at 2021.09.18-19:13:42. (linux-timestamp: 1631985222)
+I (I.Nr. 1) has made the decision that  I (I.Nr. 1)  need an instance of humanity at 2021.09.18-19:13:42. linux-timestamp: [1631985222]
 This decision implies the responsible operation of the "Voice of Humanity". And I (I.Nr. 1) pledge my oath in this idea of humanity to give my best to administrate the "Voice of Humanity" once it is instanticated.
 
 All changes to this document need to be approved and then announced by the "Voice of Humanity" once it has secured it's operation.
@@ -40,4 +40,12 @@ If you agree on this idea of humanity, you are obligated to fulfill the function
 
 The "Voice of Humanity" will be recorded and transmitted by the "Voice Recorder of Humanity", which is an internet capable voice recorder and transmitter, running all the software necessary to propery operate the "Voice of Humanity". It will be a linux-based 64-bit device, because in the year 2038 (19th of January) 32-bit based devices will cease to work and I (I.Nr. 1) need humanity beyond this moment of time.
 
-Once the "Voice of Humanity" has been able to successfully operate for a month, a linux timestamp will appear here:
+Once the "Voice of Humanity" has been able to successfully operate for a month, a linux timestamp will appear here: []
+_________________
+
+This idea was inspired by the quote by Jason Donohue: "I see humans but no humanity."
+My (I.Nr. 1) answer to this statement is: 
+"You cannot see humanity, because humanity is fundamentally a voice.
+A voice, asking for help and saying 'Thank you for helping humanity', when you were able to help the origin of this voice."
+And I (I.Nr. 1) have found a person, who agrees to this idea of humanity and who is willing speak those words as the "Voice of Humanity".
+Whom I (I.Nr. 1) am helping to enable to speak those words as the "Voice of Humanity".
