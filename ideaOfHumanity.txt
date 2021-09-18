@@ -23,6 +23,7 @@ The Index number 0 is reserved for Dominik Schönhofer, who died, because all th
 The Index number 1 is reserved for the administrator of the instantiation of humanity.
 The Index number 2 and 3 are reserved for operators of the "Voice of Humanity" chosen and assigned by the administrator.
 Everyone can apply as operators of the "Voice of Humanity" to the administrator (Index Number 1).
+All the other Index numbers will be assigned and announced by the "Voice of Humanity" in the order of processing of the request to join humanity which can be started at any "Ears of Humanity".
 
 To be specific: Humanity is the instatiation of the idea of humanity.
 This idea can be read here: https://github.com/KennyAwesome/humanity/blob/main/ideaOfHumanity.txt
