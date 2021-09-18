@@ -20,4 +20,4 @@ If you have done so, welcome to humanity!
 
 The index number 0 is reserved for Dominik Schönhofer, who died, because all the other versions of the idea of humanity has failed.
 
-The idea of humanity can be read here:
+The idea of humanity can be read here: https://github.com/KennyAwesome/humanity/blob/main/ideaOfHumanity.txt
