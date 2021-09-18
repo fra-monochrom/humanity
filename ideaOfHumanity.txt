@@ -21,6 +21,7 @@ One human can only get one Index Number.
 
 If you have done so, welcome to humanity!
 
-The index number 0 is reserved for Dominik Schönhofer, who died, because all the other versions of the idea of humanity has failed.
+The index number 0 is reserved for Dominik Schönhofer, who died, because all the other previous versions of the idea of humanity has failed.
+The index number 2 and 3 are reserved for the first two candidates for the "Voice of Humanity" chosen by me (I.Nr. 1).
 
 The idea of humanity can be read here: https://github.com/KennyAwesome/humanity/blob/main/ideaOfHumanity.txt
